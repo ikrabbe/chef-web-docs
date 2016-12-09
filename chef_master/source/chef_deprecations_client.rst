@@ -78,3 +78,7 @@ All Deprecations
     - Many internal APIs have been improved.
     - various
     - varies
+  * - :doc:`CHEF-10 </deprecations_dnf_package_allow_downgrade>`
+    - DNF package provider and resource do not require ``--allow-downgrade`` anymore.
+    - 
+    - 
