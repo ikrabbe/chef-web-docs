@@ -481,6 +481,7 @@ Addenda
    deprecations_chef_gem_compile_time
    deprecations_chef_rest
    deprecations_custom_resource_cleanups
+   deprecations_dnf_package_allow_downgrade
    deprecations_easy_install
    deprecations_exit_code
    deprecations_internal_api
